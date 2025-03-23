@@ -19,7 +19,7 @@ small-business-credit-analysis/<br>
 - **Appropriateness_Weekly_KPI_Report_Dummy_Data_Analysis.sas**: A SAS script used to analyze the data, including steps to import, process, and generate reports.
 - **SB_Card_Monthly_Report_Dummy_Data.sas**: A SAS script used to idnetify issues with the existing data and provide solution to missing, incorrect data, data formatting and final report
 
-###  Output_Summary of Appropriateness_Weekly_KPI_Report_Dummy_Data.xlsx data
+###  Output_Summary based on Appropriateness_Weekly_KPI_Report_Dummy_Data.xlsx data
 - **Output_summary_appropriateness_report.xlsx**: output results that we reccieved after running Appropriateness_Weekly_KPI_Report_Dummy_Data_Analysis.sas script in respnonse to below question
 - **Question:**<br>
  Our business partners have approached us with a request to build a report, measuring the operational health of a new process that was recently launched to meet regulatory requirements. The process requires frontline employees to have Appropriateness conversations with each customer, ensuring the customer’s financial needs are considered when recommending a suitable product. Completion of this process is evidenced through the completion of Appropriateness notes in our front-end system. The corresponding data is then generated and fed downstream to databases that our team has access to.
