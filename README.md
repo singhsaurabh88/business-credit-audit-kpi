@@ -1,21 +1,14 @@
 # Small Business Credit Analysis
 
-This repository contains analysis related to small business credit assessments using SAS and Excel data. The project includes data files for KPI reports, card monthly reports, and an analysis script in SAS.
-
-## Directory Structure
-
-small-business-credit-analysis/ 
-├── Output_summary_appropriateness_report.xlsx
-├── data/ 
-│ ├── SB_Card_Monthly_Report_Dummy_Data.xlsx 
-│ ├── Appropriateness_Weekly_KPI_Report_Dummy_Data.xlsx 
-├── scripts/ 
-│ ├── Appropriateness_Weekly_KPI_Report_Dummy_Data_Analysis.sas
-│ ├── SB_Card_Monthly_Report_Dummy_Data.sas 
-├── README.md
-├── LICENSE 
-├── .gitignore
-
+small-business-credit-analysis/<br>
+├── Output_summary_appropriateness_report.xlsx<br>
+├── data/ <br>
+│ ├── SB_Card_Monthly_Report_Dummy_Data.xlsx<br>
+│ ├── Appropriateness_Weekly_KPI_Report_Dummy_Data.xlsx<br>
+├── scripts/ <br>
+│ ├── Appropriateness_Weekly_KPI_Report_Dummy_Data_Analysis.sas <br>
+│ ├── SB_Card_Monthly_Report_Dummy_Data.sas <br>
+├── README.md <br>
 
 
 ### `data/`
@@ -28,7 +21,7 @@ small-business-credit-analysis/
 
 ###  Output_Summary of Appropriateness_Weekly_KPI_Report_Dummy_Data.xlsx data
 - **Output_summary_appropriateness_report.xlsx**: output results that we reccieved after running Appropriateness_Weekly_KPI_Report_Dummy_Data_Analysis.sas script in respnonse to below question
-- **Question:**:
+- **Question:**<br>
  Our business partners have approached us with a request to build a report, measuring the operational health of a new process that was recently launched to meet regulatory requirements. The process requires frontline employees to have Appropriateness conversations with each customer, ensuring the customer’s financial needs are considered when recommending a suitable product. Completion of this process is evidenced through the completion of Appropriateness notes in our front-end system. The corresponding data is then generated and fed downstream to databases that our team has access to.
 
 The workbook attached (Appropriateness Weekly KPI Report Dummy Data) contains three sets of data: Sales, Notes, and Regions. Using these datasets and analytics tools available to you, please create a report that captures completion volumes and rates (number and percentage of sales with Appropriateness notes):
